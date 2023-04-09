@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Practice-Css/static/css/main.03e701d1.css",
+    "main.js": "/Practice-Css/static/js/main.5673746d.js",
+    "static/js/787.60235f71.chunk.js": "/Practice-Css/static/js/787.60235f71.chunk.js",
+    "static/media/logo.svg": "/Practice-Css/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Practice-Css/index.html",
+    "main.03e701d1.css.map": "/Practice-Css/static/css/main.03e701d1.css.map",
+    "main.5673746d.js.map": "/Practice-Css/static/js/main.5673746d.js.map",
+    "787.60235f71.chunk.js.map": "/Practice-Css/static/js/787.60235f71.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03e701d1.css",
+    "static/js/main.5673746d.js"
+  ]
+}
